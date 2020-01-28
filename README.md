@@ -18,4 +18,9 @@ A simple application using gRPC to learn more about the tool.
   5. ```make check```
   6. ```sudo make install```
   7. ```sudo ldconfig ```.
+  
+  
+  ## Build / Generate
+  To generate the proto file use the following command: 
+  ```$ protoc -I=${source folder name} --go_out=plugins=grpc:${output folder} ${proto file path} ```
 
