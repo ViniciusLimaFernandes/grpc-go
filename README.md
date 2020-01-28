@@ -1,5 +1,9 @@
 # gRPC-GO
-A simple application using gRPC to learn more about the tool
+A simple application using gRPC to learn more about the tool.
+
+  ### Links
+  [Protocol buffers](https://developers.google.com/protocol-buffers)
+  [gRPC](https://grpc.io)
 
 ## Prerequisites
 ```$ sudo apt-get install autoconf automake libtool curl make g++ unzip```
