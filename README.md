@@ -1,8 +1,9 @@
 # gRPC-GO
 A simple application using gRPC to learn more about the tool.
 
-  ### Links
+  Links:
   [Protocol buffers](https://developers.google.com/protocol-buffers)
+  
   [gRPC](https://grpc.io)
 
 ## Prerequisites
