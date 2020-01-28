@@ -11,5 +11,5 @@ A simple application using gRPC to learn more about the tool
   4. ```make```
   5. ```make check```
   6. ```sudo make install```
-  7. ```sudo ldconfig # refresh shared library cache ```.
+  7. ```sudo ldconfig ```.
 
